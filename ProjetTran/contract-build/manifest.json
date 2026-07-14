@@ -1,0 +1,12 @@
+{
+  "aviso": "Somente geração local de scripts. Nenhuma transação foi criada, assinada ou enviada.",
+  "rede": "Preview",
+  "bootstrap": "b0cb7cbd97c3848f486baaa100a585e500aa7a8d78fb904e2b65939c9fe8104d#0",
+  "policyId": "2a17fe21bf199b27c27300a458bbef9ed345092dc77822c51663fad5",
+  "enderecoContrato": "addr_test1wqugnaykqk5gy4cpx64zdrdrdrech87a9xc8hf8vzvr0r9sh6ucx8",
+  "stateTokenUnit": "2a17fe21bf199b27c27300a458bbef9ed345092dc77822c51663fad552454749535452595f5354415445",
+  "arquivos": {
+    "policy": "/home/ubuntu/Projetos/ProjetTran/contract-build/state-token.plutus",
+    "registry": "/home/ubuntu/Projetos/ProjetTran/contract-build/access-registry.plutus"
+  }
+}
