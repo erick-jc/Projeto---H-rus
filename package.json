@@ -1,0 +1,15 @@
+{
+  "name": "projtran-log-anchor",
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "robo": "node main.js rodar",
+    "auditar": "node main.js auditar",
+    "painel": "node dashboard.js",
+    "contrato:status": "node contract_registry.js"
+  },
+  "dependencies": {
+    "@lucid-evolution/lucid": "^0.4.29",
+    "dotenv": "^16.4.7"
+  }
+}
